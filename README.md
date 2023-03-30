@@ -28,3 +28,11 @@ crontap -e
 clean_pic.sh #每周周日清理保存的照片
 ftp_login.sh #每一个小时进行登录并通过ftp上传至腾讯云轻量服务器
 webcam.sh #每10分钟自动进行一次照片拍摄
+
+
+
+# 蓝牙通讯
+
+树莓派安装了bluez蓝牙代理程序，手机用的蓝牙调试宝，进行数据收发调试
+![image](https://user-images.githubusercontent.com/94435405/228773878-eaf23c07-4876-4073-9aa2-9fbf515b7327.png)
+
